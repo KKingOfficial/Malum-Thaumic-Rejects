@@ -1,0 +1,7 @@
+{
+ "pack": {
+   "supported_formats": {"min_inclusive": 1, "max_inclusive": 18},
+   "pack_format": 18,
+   "description": "Malum Rewrite by K-King"
+ }
+}
